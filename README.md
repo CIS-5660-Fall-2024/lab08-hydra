@@ -32,6 +32,7 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image b
 ### 3. Your own cool effect!
 
    * Create your own shader effect! If you need a starting point, try starting with the "random" button at the top of the hydra page.
+   * https://hydra.ojack.xyz/?sketch_id=qi0Kvn6Dy4Neqsjw
   
 # Submission:
 - Create a pull request against this repository
