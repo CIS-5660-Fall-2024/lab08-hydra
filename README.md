@@ -6,3 +6,7 @@ https://hydra.ojack.xyz/?sketch_id=0KIvbmDDXrW6iOoG
 
 Problem 3:
 https://hydra.ojack.xyz/?sketch_id=5Y0v89yuBXoR3Ol5
+
+Group:
+Jeff Mostyn
+Matt Schwartz
