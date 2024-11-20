@@ -1,4 +1,9 @@
 # Lab 08 - Creative Coding with Hydra
+### Results
+[Puzzle1](https://hydra.ojack.xyz/?sketch_id=UgNib58MQh6AyBPl)
+
+[Puzzle2](https://hydra.ojack.xyz/?sketch_id=YuW0iZsGVC0Zb3Cn)
+
 Let's explore creative coding and "live coding"! In this lab we'll be using [Hydra](https://hydra.ojack.xyz/), a tool for live coding interesting visuals. Hydra has a lot of support for new users, but it's best to learn by starting to play around. In addition to the [Hydra Documentation](https://hydra.ojack.xyz/docs/), consider checking out these resources:
 
 - What is modulation? https://hydra-book.glitch.me/#/modulation
