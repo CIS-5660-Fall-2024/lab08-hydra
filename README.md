@@ -1,3 +1,9 @@
+yangyu
+puzzle1:https://hydra.ojack.xyz/?sketch_id=KQ3EAR5Tcbc6ByUL
+puzzle2:https://hydra.ojack.xyz/?sketch_id=WFXU4kimdWO8GniZ
+own shader：https://hydra.ojack.xyz/?sketch_id=Z2QuPha2QFrUVz8u
+
+
 # Lab 08 - Creative Coding with Hydra
 Let's explore creative coding and "live coding"! In this lab we'll be using [Hydra](https://hydra.ojack.xyz/), a tool for live coding interesting visuals. Hydra has a lot of support for new users, but it's best to learn by starting to play around. In addition to the [Hydra Documentation](https://hydra.ojack.xyz/docs/), consider checking out these resources:
 
