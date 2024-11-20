@@ -28,6 +28,32 @@ osc(0,0,0).color(0,0,0)
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=FpvaIGZZzA87TUA4) as a base, replicate the above animation.
+
+const THREE = await import("https://unpkg.com/three@0.163.0/build/three.module.js")
+
+scene = new THREE.Scene()
+camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000)
+
+renderer = new THREE.WebGLRenderer()
+renderer.setSize(width, height)
+geometry = new THREE.BoxGeometry()
+material = new THREE.MeshBasicMaterial({color: 0x00ff00})
+cube = new THREE.Mesh(geometry, material);
+scene.add(cube)
+camera.position.z = 1.5
+
+// 'update' is a reserved function that will be run every time the main hydra rendering context is updated
+update = () => {
+  cube.rotation.y += 0.01;
+  cube.rotation.x += 0.01;
+  renderer.render( scene, camera );
+}
+
+s0.init({ src: renderer.domElement })
+
+src(s0).repeat(3.0, 3.0, 0.0, 0.0)
+  .out()
+
      
 ### 3. Your own cool effect!
 
