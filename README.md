@@ -17,6 +17,8 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image b
 
 ### 1. Puzzle 1: You're getting sleepy
 
+[Puzzle1](https://hydra.ojack.xyz/?code=JTJGJTJGJTIwbGljZW5zZWQlMjB3aXRoJTIwQ0MlMjBCWS1OQy1TQSUyMDQuMCUyMGh0dHBzJTNBJTJGJTJGY3JlYXRpdmVjb21tb25zLm9yZyUyRmxpY2Vuc2VzJTJGYnktbmMtc2ElMkY0LjAlMkYlMEFzaGFwZSg5OSUyQyUyMDAuNSUyQyUyMDApJTBBJTA5LmNvbG9yKDElMkMlMjAwJTJDJTIwMyklMEElMDkuc2Nyb2xsWCgoKSUyMCUzRCUzRSUyME1hdGguY29zKHRpbWUpKjAuMiklMEElMDkub3V0KG8wKSUzQiUwQW9zYyg1OSUyQyUyMC0wLjAxJTJDJTIwMCklMEElMDkua2FsZWlkKDk5KSUwQSUwOS5jb250cmFzdCgoKSUyMCUzRCUzRSUyMDIuMCklMEElMDkuc2Nyb2xsWCgoKSUyMCUzRCUzRSUyME1hdGguY29zKHRpbWUpKjAuMiklMEElMDkubXVsdChzcmMobzApKSUwQSUwOS5vdXQobzEpJTNCJTBBcmVuZGVyKG8xKSUzQg%3D%3D)
+
 ![d2765d83f53a79102bbee596dc137abf](https://github.com/user-attachments/assets/a5f6f0da-5ca7-4066-9ceb-8851c2a14071)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=mwVfjOO8YNtqODRt) as a base, replicate the above animation.
