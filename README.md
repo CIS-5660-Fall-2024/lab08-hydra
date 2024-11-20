@@ -21,16 +21,18 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image b
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=mwVfjOO8YNtqODRt) as a base, replicate the above animation.
 
+   * https://hydra.ojack.xyz/?sketch_id=sIPqiKjq4e2OBVub
+
 ### 2. Puzzle 2: Dancing Squares
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=FpvaIGZZzA87TUA4) as a base, replicate the above animation.
+
+   * https://hydra.ojack.xyz/?sketch_id=Gvra2Dw3dU0zUmmY
      
 ### 3. Your own cool effect!
 
    * Create your own shader effect! If you need a starting point, try starting with the "random" button at the top of the hydra page.
+
+   * https://hydra.ojack.xyz/?sketch_id=JKPsXUa7lcYq6Osa
   
-# Submission:
-- Create a pull request against this repository
-- In your readme, add links to your solutions for each of the puzzles, three links total
-- Profit
