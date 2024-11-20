@@ -1,3 +1,8 @@
+# Puzzle 1
+https://hydra.ojack.xyz/?code=JTJGJTJGJTIwbGljZW5zZWQlMjB3aXRoJTIwQ0MlMjBCWS1OQy1TQSUyMDQuMCUyMGh0dHBzJTNBJTJGJTJGY3JlYXRpdmVjb21tb25zLm9yZyUyRmxpY2Vuc2VzJTJGYnktbmMtc2ElMkY0LjAlMkYlMEFvc2MoNTAlMkMtMC4xJTJDMCkua2FsZWlkKDUwKS5tYXNrKHNoYXBlKDk5JTJDJTIwMC41JTJDJTIwMCkpLnNjcm9sbFgoJTVCLTAuMiUyQzAuMiU1RC5zbW9vdGgoKSklMEEuY29sb3IoMSUyQzAlMkMxKSUwQSUyMCUyMC5vdXQobzApJTBBJTBBcmVuZGVyKG8wKSUwQSUwQQ%3D%3D
+
+
+
 # Lab 08 - Creative Coding with Hydra
 Let's explore creative coding and "live coding"! In this lab we'll be using [Hydra](https://hydra.ojack.xyz/), a tool for live coding interesting visuals. Hydra has a lot of support for new users, but it's best to learn by starting to play around. In addition to the [Hydra Documentation](https://hydra.ojack.xyz/docs/), consider checking out these resources:
 
