@@ -27,6 +27,8 @@ https://hydra.ojack.xyz/?sketch_id=0IIztlMxg36rMZYa
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=FpvaIGZZzA87TUA4) as a base, replicate the above animation.
+
+https://hydra.ojack.xyz/?sketch_id=5XEbPDsGPVb4bX4b
      
 ### 3. Your own cool effect!
 
