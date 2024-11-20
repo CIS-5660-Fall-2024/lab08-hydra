@@ -17,6 +17,11 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image b
 ![d2765d83f53a79102bbee596dc137abf](https://github.com/user-attachments/assets/a5f6f0da-5ca7-4066-9ceb-8851c2a14071)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=mwVfjOO8YNtqODRt) as a base, replicate the above animation.
+osc(0,0,0).color(0,0,0)
+  .layer(osc(25,-0.1,0).kaleid(50).color(1,0,1).scrollX([-0.1,0.1].smooth())
+         .mask(shape(999).scale(1.5,1.5,1.5).scrollX([-0.1,0.1].smooth()), 1, 1))
+
+  .out(o0)
 
 ### 2. Puzzle 2: Dancing Squares
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
