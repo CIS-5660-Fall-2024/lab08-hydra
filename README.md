@@ -21,6 +21,8 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image b
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=mwVfjOO8YNtqODRt) as a base, replicate the above animation.
 
+https://hydra.ojack.xyz/?sketch_id=0IIztlMxg36rMZYa
+
 ### 2. Puzzle 2: Dancing Squares
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
