@@ -17,7 +17,7 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image b
 
 ### 1. Puzzle 1: You're getting sleepy
 
-Answer: [Click to visit](https://hydra.ojack.xyz/?sketch_id=WKgYb4RHVTuzZSC7)
+Answer: [Click to visit](https://hydra.ojack.xyz/?sketch_id=lUe00c8cmYtDluRs)
 
 ![d2765d83f53a79102bbee596dc137abf](https://github.com/user-attachments/assets/a5f6f0da-5ca7-4066-9ceb-8851c2a14071)
 
@@ -25,7 +25,7 @@ Answer: [Click to visit](https://hydra.ojack.xyz/?sketch_id=WKgYb4RHVTuzZSC7)
 
 ### 2. Puzzle 2: Dancing Squares
 
-Answer: [Click to visit](https://hydra.ojack.xyz/?sketch_id=lUe00c8cmYtDluRs)
+Answer: [Click to visit](https://hydra.ojack.xyz/?sketch_id=WKgYb4RHVTuzZSC7)
 
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
