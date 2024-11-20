@@ -1,36 +1,23 @@
-# Lab 08 - Creative Coding with Hydra
-Let's explore creative coding and "live coding"! In this lab we'll be using [Hydra](https://hydra.ojack.xyz/), a tool for live coding interesting visuals. Hydra has a lot of support for new users, but it's best to learn by starting to play around. In addition to the [Hydra Documentation](https://hydra.ojack.xyz/docs/), consider checking out these resources:
-
-- What is modulation? https://hydra-book.glitch.me/#/modulation
-- How to use textures? https://hydra-book.glitch.me/#/textures  
-- A short starter walkthrough: https://www.clipsoundandmusic.uk/hydra-tutorial-a-beginners-guide-to-live-coding-visuals/
-
-All credit to the creator of hydra, [olivia](https://ojack.xyz/), and the hydra community.
-
-If you're interested in learning more about live coding, check out [this guide](https://static.livecodingbook.toplap.org/books/livecoding.pdf).
-
-lecture notes: https://tinyurl.com/penn-lets-get-creative
-three.js docs: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
-         
-## Lab Puzzles:
-The goal of each puzzle will be to replicate the look of each puzzle’s image by exploring the hydra api.
-
+# Lab 08 - Creative Coding with Hydra : Lewis Ghrist
 ### 1. Puzzle 1: You're getting sleepy
+
+[Puzzle1Link](https://hydra.ojack.xyz/?code=JTJGJTJGJTIwbGljZW5zZWQlMjB3aXRoJTIwQ0MlMjBCWS1OQy1TQSUyMDQuMCUyMGh0dHBzJTNBJTJGJTJGY3JlYXRpdmVjb21tb25zLm9yZyUyRmxpY2Vuc2VzJTJGYnktbmMtc2ElMkY0LjAlMkYlMEFzaGFwZSg5OSUyQyUyMDAuNSUyQyUyMDApJTBBJTA5LmNvbG9yKDElMkMlMjAwJTJDJTIwMyklMEElMDkuc2Nyb2xsWCgoKSUyMCUzRCUzRSUyME1hdGguY29zKHRpbWUpKjAuMiklMEElMDkub3V0KG8wKSUzQiUwQW9zYyg1OSUyQyUyMC0wLjAxJTJDJTIwMCklMEElMDkua2FsZWlkKDk5KSUwQSUwOS5jb250cmFzdCgoKSUyMCUzRCUzRSUyMDIuMCklMEElMDkuc2Nyb2xsWCgoKSUyMCUzRCUzRSUyME1hdGguY29zKHRpbWUpKjAuMiklMEElMDkubXVsdChzcmMobzApKSUwQSUwOS5vdXQobzEpJTNCJTBBcmVuZGVyKG8xKSUzQg%3D%3D)
 
 ![d2765d83f53a79102bbee596dc137abf](https://github.com/user-attachments/assets/a5f6f0da-5ca7-4066-9ceb-8851c2a14071)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=mwVfjOO8YNtqODRt) as a base, replicate the above animation.
 
 ### 2. Puzzle 2: Dancing Squares
+
+[Puzzle2Link](https://hydra.ojack.xyz/?code=JTJGJTJGJTIwbGljZW5zZWQlMjB3aXRoJTIwQ0MlMjBCWS1OQy1TQSUyMDQuMCUyMGh0dHBzJTNBJTJGJTJGY3JlYXRpdmVjb21tb25zLm9yZyUyRmxpY2Vuc2VzJTJGYnktbmMtc2ElMkY0LjAlMkYlMEElMEFjb25zdCUyMFRIUkVFJTIwJTNEJTIwYXdhaXQlMjBpbXBvcnQoJTIyaHR0cHMlM0ElMkYlMkZ1bnBrZy5jb20lMkZ0aHJlZSU0MDAuMTYzLjAlMkZidWlsZCUyRnRocmVlLm1vZHVsZS5qcyUyMiklMEElMEFzY2VuZSUyMCUzRCUyMG5ldyUyMFRIUkVFLlNjZW5lKCklMEFjYW1lcmElMjAlM0QlMjBuZXclMjBUSFJFRS5QZXJzcGVjdGl2ZUNhbWVyYSg3NSUyQyUyMHdpbmRvdy5pbm5lcldpZHRoJTIwJTJGJTIwd2luZG93LmlubmVySGVpZ2h0JTJDJTIwMC4xJTJDJTIwMTAwMCklMEElMEFyZW5kZXJlciUyMCUzRCUyMG5ldyUyMFRIUkVFLldlYkdMUmVuZGVyZXIoKSUwQXJlbmRlcmVyLnNldFNpemUod2lkdGglMkMlMjBoZWlnaHQpJTBBZ2VvbWV0cnklMjAlM0QlMjBuZXclMjBUSFJFRS5Cb3hHZW9tZXRyeSgpJTBBbWF0ZXJpYWwlMjAlM0QlMjBuZXclMjBUSFJFRS5NZXNoQmFzaWNNYXRlcmlhbCglN0Jjb2xvciUzQSUyMDB4MDBmZjAwJTdEKSUwQWN1YmUlMjAlM0QlMjBuZXclMjBUSFJFRS5NZXNoKGdlb21ldHJ5JTJDJTIwbWF0ZXJpYWwpJTNCJTBBc2NlbmUuYWRkKGN1YmUpJTBBY2FtZXJhLnBvc2l0aW9uLnolMjAlM0QlMjAyJTBBJTBBJTBBJTJGJTJGJTIwJ3VwZGF0ZSclMjBpcyUyMGElMjByZXNlcnZlZCUyMGZ1bmN0aW9uJTIwdGhhdCUyMHdpbGwlMjBiZSUyMHJ1biUyMGV2ZXJ5JTIwdGltZSUyMHRoZSUyMG1haW4lMjBoeWRyYSUyMHJlbmRlcmluZyUyMGNvbnRleHQlMjBpcyUyMHVwZGF0ZWQlMEF1cGRhdGUlMjAlM0QlMjAoKSUyMCUzRCUzRSUyMCU3QiUwQSUyMCUyMGN1YmUucm90YXRpb24ueSUyMCUyQiUzRCUyMDAuMDElM0IlMEElMjAlMjBjdWJlLnJvdGF0aW9uLnolMjAlMkIlM0QlMjAwLjAxJTNCJTBBJTIwJTIwY3ViZS5yb3RhdGlvbi54JTIwJTJCJTNEJTIwMC4wMSUzQiUwQSUyMCUyMHJlbmRlcmVyLnJlbmRlciglMjBzY2VuZSUyQyUyMGNhbWVyYSUyMCklM0IlMEElN0QlMEElMEFzMC5pbml0KCU3QiUyMHNyYyUzQSUyMHJlbmRlcmVyLmRvbUVsZW1lbnQlMjAlN0QpJTBBc3JjKHMwKSUwQSUwOS5yZXBlYXQoMy4wJTJDJTIwMy4wJTJDJTIwMC4wJTJDJTIwMC4wKS5vdXQoKSUwQQ%3D%3D)
+
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=FpvaIGZZzA87TUA4) as a base, replicate the above animation.
      
 ### 3. Your own cool effect!
 
-   * Create your own shader effect! If you need a starting point, try starting with the "random" button at the top of the hydra page.
-  
+[CustomLink](https://hydra.ojack.xyz/?code=JTJGJTJGJTIwbGljZW5zZWQlMjB3aXRoJTIwQ0MlMjBCWS1OQy1TQSUyMDQuMCUyMGh0dHBzJTNBJTJGJTJGY3JlYXRpdmVjb21tb25zLm9yZyUyRmxpY2Vuc2VzJTJGYnktbmMtc2ElMkY0LjAlMkYlMEElMEF2b3Jvbm9pKDklMkMlMjAyJTJDJTIwMCklMEElMjAlMjAua2FsZWlkKDUpJTBBJTIwJTIwLnJvdGF0ZSgoKSUyMCUzRCUzRSUyMCh0aW1lJTIwKiUyMDAuMiklMjUzNjApJTBBJTIwJTIwLnNjYWxlKCgpJTIwJTNEJTNFJTIwKE1hdGguc2luKHRpbWUpJTIwJTJCJTIwMiklMjAqJTIwMC41KSUwQSUyMCUyMC5vdXQobzEpJTNCJTBBJTBBb3NjKDIwMCUyQyUyMDAuMSUyQyUyMCgpJTIwJTNEJTNFJTIwdGltZSklMEElMjAlMjAua2FsZWlkKDg4KSUwQSUyMCUyMC5zY3JvbGxYKDIlMkMlMjAoTWF0aC5zaW4odGltZSkpJTIwKiUyMDAuMSklMEElMjAlMjAua2FsZWlkKDUpJTBBJTIwJTIwLnJvdGF0ZSgoKSUyMCUzRCUzRSUyMCh0aW1lJTIwKiUyMDAuMiklMjUzNjApJTBBJTIwJTIwLm11bHQoc3JjKG8xKSklMEElMjAlMjAub3V0KG8wKSUwQSUwQXJlbmRlcihvMCklM0I%3D)
+
 # Submission:
-- Create a pull request against this repository
-- In your readme, add links to your solutions for each of the puzzles, three links total
-- Profit
+
