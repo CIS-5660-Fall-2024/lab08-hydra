@@ -54,9 +54,26 @@ src(s0)
      
 ### 3. Your own cool effect!
 
-   * Create your own shader effect! If you need a starting point, try starting with the "random" button at the top of the hydra page.
-  
-# Submission:
-- Create a pull request against this repository
-- In your readme, add links to your solutions for each of the puzzles, three links total
-- Profit
+Solution: https://hydra.ojack.xyz/?sketch_id=9a2W0BXLWvGda9Ji
+
+```js
+shape(4,0.96)
+  .repeat(12,12).invert().color(1,0,1)
+  .scrollY(0,0.05)
+  .modulate(osc(60, 0.05, 0).kaleid(100))
+  .add(
+    shape(4,0.96)
+    .repeat(12,12).invert().color(0, 1, 1)
+    .scrollY(0,-0.05)
+    .modulate(osc(60, 0.05, 0).kaleid(100))
+  	.scrollX(0.2)
+  )
+  .add(
+    shape(4,0.96)
+    .repeat(12,12).invert().color(1, 1, 0)
+    .scrollY(0,0.05)
+    .modulate(osc(60, 0.05, 0).kaleid(100))
+  	.scrollX(-0.2)
+  )
+  .out()
+```
