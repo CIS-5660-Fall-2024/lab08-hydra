@@ -33,6 +33,8 @@ https://hydra.ojack.xyz/?sketch_id=5XEbPDsGPVb4bX4b
 ### 3. Your own cool effect!
 
    * Create your own shader effect! If you need a starting point, try starting with the "random" button at the top of the hydra page.
+
+https://hydra.ojack.xyz/?sketch_id=YgWV9ghk6zr6FuP7
   
 # Submission:
 - Create a pull request against this repository
