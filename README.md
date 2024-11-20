@@ -1,22 +1,8 @@
 # Lab 08 - Creative Coding with Hydra
-Let's explore creative coding and "live coding"! In this lab we'll be using [Hydra](https://hydra.ojack.xyz/), a tool for live coding interesting visuals. Hydra has a lot of support for new users, but it's best to learn by starting to play around. In addition to the [Hydra Documentation](https://hydra.ojack.xyz/docs/), consider checking out these resources:
-
-- What is modulation? https://hydra-book.glitch.me/#/modulation
-- How to use textures? https://hydra-book.glitch.me/#/textures  
-- A short starter walkthrough: https://www.clipsoundandmusic.uk/hydra-tutorial-a-beginners-guide-to-live-coding-visuals/
-
-All credit to the creator of hydra, [olivia](https://ojack.xyz/), and the hydra community.
-
-If you're interested in learning more about live coding, check out [this guide](https://static.livecodingbook.toplap.org/books/livecoding.pdf).
-         
-## Lab Puzzles:
-The goal of each puzzle will be to replicate the look of each puzzle’s image by exploring the hydra api.
 
 ### 1. Puzzle 1: You're getting sleepy
 
-![d2765d83f53a79102bbee596dc137abf](https://github.com/user-attachments/assets/a5f6f0da-5ca7-4066-9ceb-8851c2a14071)
-
-   * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=mwVfjOO8YNtqODRt) as a base, replicate the above animation.
+[Link](https://hydra.ojack.xyz/?code=JTJGJTJGJTIwbGljZW5zZWQlMjB3aXRoJTIwQ0MlMjBCWS1OQy1TQSUyMDQuMCUyMGh0dHBzJTNBJTJGJTJGY3JlYXRpdmVjb21tb25zLm9yZyUyRmxpY2Vuc2VzJTJGYnktbmMtc2ElMkY0LjAlMkYlMEFzaGFwZSg5OSUyQyUyMDAuNSUyQyUyMDApLmNvbG9yKDElMkMlMjAwJTJDJTIwMSkubXVsdChvc2MoNjAlMkMtMC4xJTJDMCkua2FsZWlkKDUwKSklMEElMjAlMjAuc2Nyb2xsWCglNUItMC4yJTJDMC4yJTVELnNtb290aCgpKSUwQSUyMCUyMC5vdXQobzApJTBBJTBBcmVuZGVyKG8wKSUwQSUwQQ%3D%3D)
 
 ### 2. Puzzle 2: Dancing Squares
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
