@@ -27,6 +27,7 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image b
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=FpvaIGZZzA87TUA4) as a base, replicate the above animation.
+   * https://hydra.ojack.xyz/?sketch_id=JZrUoiUiEKAzu9qj
      
 ### 3. Your own cool effect!
 
