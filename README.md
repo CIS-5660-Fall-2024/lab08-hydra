@@ -4,7 +4,7 @@
 
 [Puzzle 2: Dancing Squares](https://hydra.ojack.xyz/?sketch_id=U8ErgNCjOym6f5qR)
 
-[Puzzle 3: Custom shader (requires camera)](https://hydra.ojack.xyz/?sketch_id=9kfEkt75VxfbzJdu)
+[Puzzle 3: Custom shader (requires camera)](https://hydra.ojack.xyz/?sketch_id=jr7i6cgYze2gNwH0)
   
 # Submission:
 - Create a pull request against this repository
