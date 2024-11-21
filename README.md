@@ -17,24 +17,31 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image b
 
 ### 1. Puzzle 1: You're getting sleepy
 
+Link: https://hydra.ojack.xyz/?sketch_id=XTBYz3czn0orF7lM
+
 ![d2765d83f53a79102bbee596dc137abf](https://github.com/user-attachments/assets/a5f6f0da-5ca7-4066-9ceb-8851c2a14071)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=mwVfjOO8YNtqODRt) as a base, replicate the above animation.
 
-https://hydra.ojack.xyz/?sketch_id=XTBYz3czn0orF7lM
+
 
 ### 2. Puzzle 2: Dancing Squares
+
+Link: https://hydra.ojack.xyz/?sketch_id=EMcIIllqrM5K7wVm
+
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=FpvaIGZZzA87TUA4) as a base, replicate the above animation.
 
-https://hydra.ojack.xyz/?sketch_id=EMcIIllqrM5K7wVm
+
      
 ### 3. Your own cool effect!
 
+Link: https://hydra.ojack.xyz/?sketch_id=y64xtIk1EdFJUAsm
+
    * Create your own shader effect! If you need a starting point, try starting with the "random" button at the top of the hydra page.
 
-https://hydra.ojack.xyz/?sketch_id=C4qUjXWs5ks9I214
+
 
 # Submission:
 - Create a pull request against this repository
