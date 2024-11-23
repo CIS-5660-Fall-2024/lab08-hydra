@@ -21,14 +21,55 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image b
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=mwVfjOO8YNtqODRt) as a base, replicate the above animation.
 
+[my link](https://hydra.ojack.xyz/?code=JTJGJTJGJTIwbGljZW5zZWQlMjB3aXRoJTIwQ0MlMjBCWS1OQy1TQSUyMDQuMCUyMGh0dHBzJTNBJTJGJTJGY3JlYXRpdmVjb21tb25zLm9yZyUyRmxpY2Vuc2VzJTJGYnktbmMtc2ElMkY0LjAlMkYlMEElMEFvc2MoMCUyQzAlMkMwKS5jb2xvcigwJTJDMCUyQzApJTBBJTIwJTIwLmxheWVyKG9zYygyNSUyQy0wLjElMkMwKS5rYWxlaWQoNTApLmNvbG9yKDElMkMwJTJDMSkuc2Nyb2xsWCglNUItMC4xJTJDMC4xJTVELnNtb290aCgpKSUwQSUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMCUyMC5tYXNrKHNoYXBlKDk5OSkuc2NhbGUoMS41JTJDMS41JTJDMS41KS5zY3JvbGxYKCU1Qi0wLjElMkMwLjElNUQuc21vb3RoKCkpJTJDJTIwMSUyQyUyMDEpKSUwQSUwQSUyMCUyMC5vdXQobzApJTBBJTBB)
+
+osc(0,0,0).color(0,0,0)
+  .layer(osc(25,-0.1,0).kaleid(50).color(1,0,1).scrollX([-0.1,0.1].smooth())
+         .mask(shape(999).scale(1.5,1.5,1.5).scrollX([-0.1,0.1].smooth()), 1, 1))
+
+  .out(o0)
+
 ### 2. Puzzle 2: Dancing Squares
 [![Image from Gyazo](https://i.gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51.gif)](https://gyazo.com/95ace79f6d2ca24f563a6a79fdcc4f51)
 
    * Starting with [this code](https://hydra.ojack.xyz/?sketch_id=FpvaIGZZzA87TUA4) as a base, replicate the above animation.
+
+[my link](https://hydra.ojack.xyz/?code=JTJGJTJGJTIwbGljZW5zZWQlMjB3aXRoJTIwQ0MlMjBCWS1OQy1TQSUyMDQuMCUyMGh0dHBzJTNBJTJGJTJGY3JlYXRpdmVjb21tb25zLm9yZyUyRmxpY2Vuc2VzJTJGYnktbmMtc2ElMkY0LjAlMkYlMEElMEFjb25zdCUyMFRIUkVFJTIwJTNEJTIwYXdhaXQlMjBpbXBvcnQoJTIyaHR0cHMlM0ElMkYlMkZ1bnBrZy5jb20lMkZ0aHJlZSU0MDAuMTYzLjAlMkZidWlsZCUyRnRocmVlLm1vZHVsZS5qcyUyMiklMEElMEFzY2VuZSUyMCUzRCUyMG5ldyUyMFRIUkVFLlNjZW5lKCklMEFjYW1lcmElMjAlM0QlMjBuZXclMjBUSFJFRS5QZXJzcGVjdGl2ZUNhbWVyYSg3NSUyQyUyMHdpbmRvdy5pbm5lcldpZHRoJTIwJTJGJTIwd2luZG93LmlubmVySGVpZ2h0JTJDJTIwMC4xJTJDJTIwMTAwMCklMEElMEFyZW5kZXJlciUyMCUzRCUyMG5ldyUyMFRIUkVFLldlYkdMUmVuZGVyZXIoKSUwQXJlbmRlcmVyLnNldFNpemUod2lkdGglMkMlMjBoZWlnaHQpJTBBZ2VvbWV0cnklMjAlM0QlMjBuZXclMjBUSFJFRS5Cb3hHZW9tZXRyeSgpJTBBbWF0ZXJpYWwlMjAlM0QlMjBuZXclMjBUSFJFRS5NZXNoQmFzaWNNYXRlcmlhbCglN0Jjb2xvciUzQSUyMDB4MDBmZjAwJTdEKSUwQWN1YmUlMjAlM0QlMjBuZXclMjBUSFJFRS5NZXNoKGdlb21ldHJ5JTJDJTIwbWF0ZXJpYWwpJTNCJTBBc2NlbmUuYWRkKGN1YmUpJTBBY2FtZXJhLnBvc2l0aW9uLnolMjAlM0QlMjAxLjUlMEElMEElMkYlMkYlMjAndXBkYXRlJyUyMGlzJTIwYSUyMHJlc2VydmVkJTIwZnVuY3Rpb24lMjB0aGF0JTIwd2lsbCUyMGJlJTIwcnVuJTIwZXZlcnklMjB0aW1lJTIwdGhlJTIwbWFpbiUyMGh5ZHJhJTIwcmVuZGVyaW5nJTIwY29udGV4dCUyMGlzJTIwdXBkYXRlZCUwQXVwZGF0ZSUyMCUzRCUyMCgpJTIwJTNEJTNFJTIwJTdCJTBBJTIwJTIwY3ViZS5yb3RhdGlvbi55JTIwJTJCJTNEJTIwMC4wMSUzQiUwQSUyMCUyMGN1YmUucm90YXRpb24ueCUyMCUyQiUzRCUyMDAuMDElM0IlMEElMjAlMjByZW5kZXJlci5yZW5kZXIoJTIwc2NlbmUlMkMlMjBjYW1lcmElMjApJTNCJTBBJTdEJTBBJTBBczAuaW5pdCglN0IlMjBzcmMlM0ElMjByZW5kZXJlci5kb21FbGVtZW50JTIwJTdEKSUwQSUwQXNyYyhzMCkucmVwZWF0KDMuMCUyQyUyMDMuMCUyQyUyMDAuMCUyQyUyMDAuMCklMEElMjAlMjAub3V0KCk%3D)
+
+const THREE = await import("https://unpkg.com/three@0.163.0/build/three.module.js")
+
+scene = new THREE.Scene()
+camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000)
+
+renderer = new THREE.WebGLRenderer()
+renderer.setSize(width, height)
+geometry = new THREE.BoxGeometry()
+material = new THREE.MeshBasicMaterial({color: 0x00ff00})
+cube = new THREE.Mesh(geometry, material);
+scene.add(cube)
+camera.position.z = 1.5
+
+// 'update' is a reserved function that will be run every time the main hydra rendering context is updated
+update = () => {
+  cube.rotation.y += 0.01;
+  cube.rotation.x += 0.01;
+  renderer.render( scene, camera );
+}
+
+s0.init({ src: renderer.domElement })
+
+src(s0).repeat(3.0, 3.0, 0.0, 0.0)
+  .out()
+
      
 ### 3. Your own cool effect!
 
    * Create your own shader effect! If you need a starting point, try starting with the "random" button at the top of the hydra page.
+
+[my link](https://hydra.ojack.xyz/?code=JTJGJTJGJTIwYnklMjBDaHJpc3RpbmElMjBRaXUlMEElMEFzMC5pbml0Q2FtKCklMEElMEFzcmMoczApLmthbGVpZCgoKSUzRCUzRTYlMkJNYXRoLnNpbih0aW1lKSo1KS5jb2xvcmFtYSglNUIwLjAwNSUyQzAuMzMlMkMwLjY2JTJDMS4wJTVELmZhc3QoMSkpLm91dChvMCk%3D)
+
+s0.initCam()
+src(s0).pixelate(20,20).kaleid(()=>6+Math.sin(time)*4).colorama([0.005,0.33,0.66,1.0].fast(0.125)).out(o0)
   
 # Submission:
 - Create a pull request against this repository
